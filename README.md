@@ -1,45 +1,45 @@
-# 🌍 TripPlanner AI – Your Personal Smart Travel Companion
+#  TripPlanner AI – Your Personal Smart Travel Companion
 
 An AI-powered Android app that intelligently plans trips based on user preferences such as destination, duration, and budget. Integrates OpenAI API for generating personalized travel itineraries and uses Google Maps SDK  to visualize optimized routes, hotel suggestions, and attractions — all within a clean, modern UI built using MVVM, Coroutines .
 
-## 🚀 Flow Overview
+##  Flow Overview
 
-### 🧭 1. Sign Up / Login  
+###  1. Sign Up / Login  
 - Users can create an account or log in securely using email/password or Google sign-in.  
 - Once logged in, users are greeted with an AI chat interface ready to assist them.
 
-### 💬 2. Chat with TripPlanner AI  
+###  2. Chat with TripPlanner AI  
 - The AI assistant (powered by OpenAI API or Gemini) asks users for:
-  - Travel destination 🌆  
-  - Number of days 🗓️  
-  - Interests (nature, culture, nightlife, food, etc.) 🍜  
+  - Travel destination  
+  - Number of days   
+  - Interests (nature, culture, nightlife, food, etc.)   
 - It then generates **personalized itineraries** dynamically based on preferences and weather, optimized routes, and best local spots.
 
-### 🗺️ 3. AI-Generated Itineraries  
+###  3. AI-Generated Itineraries  
 - Beautifully designed itinerary cards displayed in a horizontal **image carousel**.  
 - Each itinerary contains:
   - Cover image of the destination  
   - Brief summary  
   - “View Details” button to explore more  
 
-### 🧳 4. Itinerary Details Screen  
+###  4. Itinerary Details Screen  
 - Opens when the user taps an itinerary card.  
 - Displays a **day-by-day travel plan** including:
-  - Attractions 🏞️  
-  - Restaurants 🍽️  
-  - Must-visit places 📍  
+  - Attractions   
+  - Restaurants   
+  - Must-visit places   
   - Maps integration (Google Maps) showing route and location pins.  
 - Each day is shown as a collapsible card or timeline for easy navigation.
 
-### 🛒 5. Trip Cart (Booking Assistant)  
+###  5. Trip Cart (Booking Assistant)  
 - After finalizing an itinerary, the user can move the trip to the **Trip Cart**.  
 - The app provides direct links to booking platforms for:
-  - Hotels 🏨  
-  - Flights ✈️  
-  - Activities 🎟️  
+  - Hotels   
+  - Flights   
+  - Activities   
 - Opens the browser for seamless in-app booking experience.
 
-## ✨ Features
+##  Features
 
 ✅ AI-powered trip generation using LLM  
 ✅ Dynamic itinerary creation with images & links  
@@ -50,7 +50,7 @@ An AI-powered Android app that intelligently plans trips based on user preferenc
 ✅ Trip Cart integration for easy booking  
 ✅ Modern Android UI built with **Jetpack Compose**
 
-## 🧠 Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |-------|-------------|
@@ -67,7 +67,7 @@ An AI-powered Android app that intelligently plans trips based on user preferenc
 | **UI Animations** | Lottie, MotionLayout, Compose Animations |
 
 
-## 📱 UI Highlights
+##  UI Highlights
 
 - **Login / Signup Screens:** Clean modern layout with Material3 components.  
 - **Chat Screen:** AI interaction with typing animation and message bubbles.  
@@ -75,9 +75,8 @@ An AI-powered Android app that intelligently plans trips based on user preferenc
 - **Itinerary Details:** Map view, attractions list, and timeline visualization.  
 - **Trip Cart:** Sleek booking screen linking to external services.
 
----
 
-## 🧩 Architecture Diagram
+##  Architecture Diagram
 com.tripplanner
 ├── data
 │   ├── model/
@@ -101,7 +100,7 @@ com.tripplanner
 └── utils/
     └── Extensions.kt
 
-## 🗺️ Example User Journey
+##  Example User Journey
 
 1. **Sign Up / Login** → Secure Firebase Authentication  
 2. **Chat with AI** → “Plan a 5-day trip to Paris”  
@@ -109,16 +108,14 @@ com.tripplanner
 4. **Click a Card** → Detailed daily itinerary + Google Map  
 5. **Open Trip Cart** → Redirects to hotel and activity booking sites  
 
----
+##  Future Enhancements
 
-## 🔮 Future Enhancements
-
-- ✈️ Multi-destination trip planning  
-- 🗂️ Save trips for offline access  
-- 💬 Voice-based AI chat  
-- 💵 Budget optimizer (AI estimates total trip cost)  
-- 🌦️ Real-time weather suggestions  
-- 📅 Calendar integration for syncing trip dates
+-  Multi-destination trip planning  
+-  Save trips for offline access  
+-  Voice-based AI chat  
+-  Budget optimizer (AI estimates total trip cost)  
+-  Real-time weather suggestions  
+-  Calendar integration for syncing trip dates
 
 ## Installation
 Clone the repository:
