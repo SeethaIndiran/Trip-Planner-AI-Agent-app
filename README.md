@@ -143,13 +143,21 @@ GitHub: SeethaIndiran
 
 ## Screen shots
  ![image_alt](https://github.com/SeethaIndiran/Trip-Planner-AI-Agent-app/blob/14937982e53fdfd047ebdba52b8b97d5baadbd88/Screenshot%202025-11-19%20225811.png)   
+ 
  ![image_alt](https://github.com/SeethaIndiran/Trip-Planner-AI-Agent-app/blob/e0c925eb347f291a6753b18305e959a30c41fac2/Screenshot%202025-11-19%20230111.png)
+ 
  ![image_alt](https://github.com/SeethaIndiran/Trip-Planner-AI-Agent-app/blob/e0c925eb347f291a6753b18305e959a30c41fac2/Screenshot%202025-11-19%20230302.png)
+ 
  ![image_alt](https://github.com/SeethaIndiran/Trip-Planner-AI-Agent-app/blob/e0c925eb347f291a6753b18305e959a30c41fac2/Screenshot%202025-11-19%20230539.png)
+ 
  ![image_alt](https://github.com/SeethaIndiran/Trip-Planner-AI-Agent-app/blob/e0c925eb347f291a6753b18305e959a30c41fac2/Screenshot%202025-11-19%20230653.png)
+ 
  ![image_alt](https://github.com/SeethaIndiran/Trip-Planner-AI-Agent-app/blob/e0c925eb347f291a6753b18305e959a30c41fac2/Screenshot%202025-11-19%20230825.png)
+ 
  ![image_alt](https://github.com/SeethaIndiran/Trip-Planner-AI-Agent-app/blob/e0c925eb347f291a6753b18305e959a30c41fac2/Screenshot%202025-11-19%20231008.png)
+ 
  ![image_alt](https://github.com/SeethaIndiran/Trip-Planner-AI-Agent-app/blob/e0c925eb347f291a6753b18305e959a30c41fac2/Screenshot%202025-11-19%20231136.png)
+ 
  ![image_alt](https://github.com/SeethaIndiran/Trip-Planner-AI-Agent-app/blob/e0c925eb347f291a6753b18305e959a30c41fac2/Screenshot%202025-11-19%20231253.png)
 
 
