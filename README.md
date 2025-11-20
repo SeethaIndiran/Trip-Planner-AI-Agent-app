@@ -142,7 +142,7 @@ Email: seethaindhiran@gmail.com
 GitHub: SeethaIndiran
 
 ## Screen shots
- ![image_alt]()   
+ ![image_alt]([Screenshot 2025-11-19 225811.png](https://raw.githubusercontent.com/SeethaIndiran/Trip-Planner-AI-Agent-app/d2a593982804192003d3875c62f515aa32e0eaa8/Screenshot%202025-11-19%20225811.png))   
 
 
 
